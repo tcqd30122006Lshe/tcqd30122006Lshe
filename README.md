@@ -1,31 +1,28 @@
-<!-- HEADER BANNER GRADIENT (RED TEAM THEME) -->
+<!-- HEADER BANNER -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:B71C1C&height=180&section=header&text=Tr%E1%BA%A7n%20C%C3%B4ng%20Qu%E1%BB%91c%20D%C5%A9ng&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Security%20|%20Offensive%20Security&descAlignY=58&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:B71C1C&height=180&section=header&text=Tr%E1%BA%A7n%20C%C3%B4ng%20Qu%E1%BB%91c%20D%C5%A9ng&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Security&descAlignY=58&descAlign=50" alt="Header" width="100%"/>
 </h1>
 
-<!-- TYPING ANIMATION -->
+<!-- CHỮ GÕ ĐỘNG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=550&lines=Red+Team+Security+Enthusiast;PSA+(2024)+%E2%9E%94+GASC+(2025)+and+on;Offensive+Security+%26+Penetration+Testing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=550&lines=Red+Team+Security;PSA+(2024)+-+GASC+(2025)+and+go+on..." alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-### 🎯 Giới thiệu (About Me)
-- 👤 **Họ và tên:** Trần Công Quốc Dũng
-- 🛡️ **Định hướng chuyên môn:** **Red Team Security** (Offensive Security, Penetration Testing, Khai thác lỗ hổng & Kiểm thử bảo mật).
-- 🚩 **Hành trình & Cột mốc:** **PSA (2024)** ➔ **GASC (2025)** and go on...
-- 🎯 **Mục tiêu:** Nâng cao kỹ năng khai thác chuyên sâu, nghiên cứu bảo mật hệ thống và đóng góp cho cộng đồng an toàn thông tin.
+### 🎯 About Me
+- **Họ tên:** Trần Công Quốc Dũng
+- **Định hướng:** Red Team Security
+- **Hành trình:** PSA (2024) 🇻🇳 - GASC (2025) 🇮🇳 and go on...
 
 <br/>
 
 ---
 
-### 🚀 Dự án tiêu biểu (Featured Projects)
-
+### 🚀 Projects
 <div align="center">
-  <!-- Thẻ ghim tự động repo vnr-express-train-booking -->
   <a href="https://github.com/tcqd30122006Lshe/vnr-express-train-booking">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tcqd30122006Lshe&repo=vnr-express-train-booking&theme=radical&hide_border=true" />
   </a>
@@ -33,15 +30,9 @@
 
 <br/>
 
-| Tên Dự Án | Mô Tả | Mã Nguồn |
-| :--- | :--- | :---: |
-| 🚆 **VNR Express Train Booking** | Hệ thống đặt vé tàu trực tuyến đường sắt Việt Nam. | [Xem Repository](https://github.com/tcqd30122006Lshe/vnr-express-train-booking) |
-
-<br/>
-
 ---
 
-### 📊 Thống kê hoạt động (GitHub Stats)
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tcqd30122006Lshe&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
   &nbsp;
@@ -56,7 +47,7 @@
 
 ---
 
-### 📬 Liên hệ (Connect with me)
+### 📬 Contact
 <div align="center">
   <a href="mailto:dung3864938.vn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-dung3864938.vn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -69,7 +60,7 @@
 
 <br/>
 
-<!-- FOOTER BANNER -->
+<!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,100:000000&height=100&section=footer" width="100%"/>
 </div>
