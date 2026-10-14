@@ -5,7 +5,7 @@
 
 <!-- MẮT SHARINGAN XOAY ĐỘNG -->
 <div align="center">
-  <img src="https://s2.ezgif.com/tmp/ezgif-2211d031ad08bfd9.gif" width="220" alt="Itachi Sharingan" />
+  <img src="./itachi_sharingan_avatar.gif" width="220" alt="Itachi Sharingan" />
 </div>
 
 <!-- CHỮ GÕ ĐỘNG -->
