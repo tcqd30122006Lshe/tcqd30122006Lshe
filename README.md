@@ -23,10 +23,15 @@
 
 ### 🚀 Projects
 <div align="center">
+  <!-- Thẻ Pin Card tự động -->
   <a href="https://github.com/tcqd30122006Lshe/vnr-express-train-booking">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tcqd30122006Lshe&repo=vnr-express-train-booking&theme=radical&hide_border=true" />
   </a>
 </div>
+
+<p align="center">
+  🔗 <b>Repository:</b> <a href="https://github.com/tcqd30122006Lshe/vnr-express-train-booking">tcqd30122006Lshe/vnr-express-train-booking</a>
+</p>
 
 <br/>
 
