@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0003,60:8b0000,100:d32f2f&height=180&section=header&text=Tr%E1%BA%A7n%20C%C3%B4ng%20Qu%E1%BB%91c%20D%C5%A9ng&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Security&descSize=20&descColor=FFCDD2&descAlignY=58&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0003,60:8b0000,100:d32f2f&height=180&section=header&text=Tr%E1%BA%A7n%20C%C3%B4ng%20Qu%E1%BB%91c%20D%C5%A9ng&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Red%20Team&descSize=20&descColor=FFCDD2&descAlignY=58&descAlign=50" alt="Header" width="100%"/>
 </h1>
 
 <!-- MẮT SHARINGAN XOAY ĐỘNG -->
@@ -19,7 +19,7 @@
 
 ### 🎯 About Me
 - **Họ tên:** Trần Công Quốc Dũng
-- **Định hướng:** Red Team Security
+- **Định hướng:** Red Team 
 - **Hành trình:** PSA (2024) 🇻🇳 - GASC (2025) 🇮🇳 and go on...
 
 <br/>
