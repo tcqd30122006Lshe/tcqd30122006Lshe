@@ -1,12 +1,12 @@
 <!-- HEADER BANNER -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:B71C1C&height=180&section=header&text=Tr%E1%BA%A7n%20C%C3%B4ng%20Qu%E1%BB%91c%20D%C5%A9ng&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Security&descAlignY=58&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0003,60:8b0000,100:d32f2f&height=180&section=header&text=Tr%E1%BA%A7n%20C%C3%B4ng%20Qu%E1%BB%91c%20D%C5%A9ng&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Security&descSize=20&descColor=FFCDD2&descAlignY=58&descAlign=50" alt="Header" width="100%"/>
 </h1>
 
 <!-- CHỮ GÕ ĐỘNG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=550&lines=Red+Team+Security;PSA+(2024)+-+GASC+(2025)+and+go+on..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF5252&center=true&vCenter=true&width=550&lines=Red+Team+Security;PSA+(2024)+-+GASC+(2025)+and+go+on..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,16 +22,7 @@
 ---
 
 ### 🚀 Projects
-<div align="center">
-  <!-- Thẻ Pin Card tự động -->
-  <a href="https://github.com/tcqd30122006Lshe/vnr-express-train-booking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tcqd30122006Lshe&repo=vnr-express-train-booking&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-<p align="center">
-  🔗 <b>Repository:</b> <a href="https://github.com/tcqd30122006Lshe/vnr-express-train-booking">tcqd30122006Lshe/vnr-express-train-booking</a>
-</p>
+- 🚆 **[vnr-express-train-booking](https://github.com/tcqd30122006Lshe/vnr-express-train-booking)**: Hệ thống đặt vé tàu trực tuyến đường sắt Việt Nam.
 
 <br/>
 
@@ -67,5 +58,5 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,100:000000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d32f2f,40:8b0000,100:1a0003&height=100&section=footer" width="100%"/>
 </div>
