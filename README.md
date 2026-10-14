@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0003,60:8b0000,100:d32f2f&height=180&section=header&text=Tr%E1%BA%A7n%20C%C3%B4ng%20Qu%E1%BB%91c%20D%C5%A9ng&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Security&descSize=20&descColor=FFCDD2&descAlignY=58&descAlign=50" alt="Header" width="100%"/>
 </h1>
 
+<!-- ẢNH ĐẠI DIỆN PINTEREST (SUNG JIN-WOO) -->
+<div align="center">
+  <img src="https://i.pinimg.com/736x/86/12/34/861234feeaa6542db759cd78617140fa.jpg" width="150" alt="Avatar" style="border-radius: 50%;" />
+</div>
+
 <!-- CHỮ GÕ ĐỘNG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -51,6 +56,10 @@
   &nbsp;
   <a href="https://www.facebook.com/tcqd.30122006Lshe/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Trần%20Công%20Quốc%20Dũng-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://pin.it/7sv79upDA" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
   </a>
 </div>
 
