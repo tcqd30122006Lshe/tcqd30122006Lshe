@@ -1,17 +1,17 @@
 <!-- HEADER BANNER -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0003,60:8b0000,100:d32f2f&height=180&section=header&text=Tr%E1%BA%A7n%20C%C3%B4ng%20Qu%E1%BB%91c%20D%C5%A9ng&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Red%20Team&descSize=20&descColor=FFCDD2&descAlignY=58&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0003,60:8b0000,100:d32f2f&height=180&section=header&text=Tr%E1%BA%A7n%20C%C3%B4ng%20Qu%E1%BB%91c%20D%C5%A9ng&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Security&descSize=20&descColor=FFCDD2&descAlignY=58&descAlign=50" alt="Header" width="100%"/>
 </h1>
 
-<!-- ẢNH ĐẠI DIỆN PINTEREST (SUNG JIN-WOO) -->
+<!-- MẮT SHARINGAN XOAY ĐỘNG -->
 <div align="center">
-  <img src="https://i.pinimg.com/736x/86/12/34/861234feeaa6542db759cd78617140fa.jpg" width="100%" alt="Sung Jinwoo" />
+  <img src="https://s2.ezgif.com/tmp/ezgif-2211d031ad08bfd9.gif" width="220" alt="Itachi Sharingan" />
 </div>
 
 <!-- CHỮ GÕ ĐỘNG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF5252&center=true&vCenter=true&width=550&lines=Red+Team;PSA+(2024)+-+GASC+(2025)+and+go+on..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF5252&center=true&vCenter=true&width=550&lines=Red+Team+Security;PSA+(2024)+-+GASC+(2025)+and+go+on..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,7 +19,7 @@
 
 ### 🎯 About Me
 - **Họ tên:** Trần Công Quốc Dũng
-- **Định hướng:** Red Team
+- **Định hướng:** Red Team Security
 - **Hành trình:** PSA (2024) 🇻🇳 - GASC (2025) 🇮🇳 and go on...
 
 <br/>
@@ -56,10 +56,6 @@
   &nbsp;
   <a href="https://www.facebook.com/tcqd.30122006Lshe/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Trần%20Công%20Quốc%20Dũng-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  &nbsp;
-  <a href="https://pin.it/7sv79upDA" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
   </a>
 </div>
 
