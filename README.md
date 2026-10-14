@@ -5,7 +5,7 @@
 
 <!-- ẢNH ĐẠI DIỆN PINTEREST (SUNG JIN-WOO) -->
 <div align="center">
-  <img src="https://i.pinimg.com/736x/86/12/34/861234feeaa6542db759cd78617140fa.jpg" width="150" alt="Avatar" style="border-radius: 50%;" />
+  <img src="https://i.pinimg.com/736x/86/12/34/861234feeaa6542db759cd78617140fa.jpg" width="100%" alt="Sung Jinwoo" />
 </div>
 
 <!-- CHỮ GÕ ĐỘNG -->
@@ -19,7 +19,7 @@
 
 ### 🎯 About Me
 - **Họ tên:** Trần Công Quốc Dũng
-- **Định hướng:** Red Team Security
+- **Định hướng:** Red Team
 - **Hành trình:** PSA (2024) 🇻🇳 - GASC (2025) 🇮🇳 and go on...
 
 <br/>
