@@ -11,7 +11,7 @@
 <!-- CHỮ GÕ ĐỘNG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF5252&center=true&vCenter=true&width=550&lines=Red+Team+Security;PSA+(2024)+-+GASC+(2025)+and+go+on..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF5252&center=true&vCenter=true&width=550&lines=Red+Team;PSA+(2024)+-+GASC+(2025)+and+go+on..." alt="Typing SVG" />
   </a>
 </div>
 
